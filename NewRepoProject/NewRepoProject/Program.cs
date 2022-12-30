@@ -8,6 +8,7 @@ namespace NewRepoProject
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Ini Pemrog Lanjut");
+            Console.WriteLine("Ini Pemrog Lanjut ya");
         }
     }
 }
